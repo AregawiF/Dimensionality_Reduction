@@ -1,2 +1,2 @@
 # Dimensionality_Reduction
-Dimensionality reduction Principal Component Analysis (PCA) implementation
+Dimensionality reduction on Car Spec data with Principal Component Analysis (PCA) implementation
